@@ -1,0 +1,34 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameCotroller.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Mosquito.cs" Line="30" Column="18" />
+      <File FileName="Assets\Scripts\GameCotroller.cs" Line="31" Column="5" />
+      <File FileName="Assets\Scripts\Instanciar.cs" Line="45" Column="24" />
+      <File FileName="Assets\Scripts\MosquitoMorte.cs" Line="18" Column="26" />
+      <File FileName="Assets\Scripts\StartGame.cs" Line="26" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Joguinho" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameCotroller.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="Joguinho" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
